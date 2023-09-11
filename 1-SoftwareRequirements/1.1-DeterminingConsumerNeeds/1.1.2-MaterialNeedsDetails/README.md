@@ -1,2 +1,2 @@
 # Деталізація матеріальних потреб
-![](../../../MindMapExample(Asetyanov).jpg)
+![](MindMapExample(Asetyanov).jpg)
