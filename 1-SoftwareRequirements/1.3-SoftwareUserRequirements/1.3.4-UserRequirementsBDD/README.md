@@ -1,4 +1,4 @@
 # BDD-специфікація вимог користувача
-[](Feature1.feature)
-[](Feature2.feature)
-[](Feature3.feature)
+[feature1](Feature1.feature)
+[feature2](Feature2.feature)
+[feature3](Feature3.feature)
